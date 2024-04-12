@@ -1,5 +1,5 @@
 # Simple board game build in scala (scala-coursework)
-This is a simple board game build in scala and was a coursework for Computer Science BSC (Hons) Programming module in Block 3 Year 1 in De Montffort University, Leicester, UK.
+This is a simple board game build in scala and was a coursework for Computer Science BSC (Hons) Programming module in Block 3 Year 1.
 
 ## Table of Contents
 
